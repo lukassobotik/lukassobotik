@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PuckyEU
-- 👀 I’m interested in Java and Android Studio Development
-- 🌱 I’m currently learning Java
+
+### :wave: Hi there! 
+
+ I’m learning Java, and interested in [Android Studio](https://developer.android.com/studio) & [Arduino](https://www.arduino.cc/) Development
 
 [![Pucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&hide=prs&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
