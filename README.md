@@ -1,13 +1,22 @@
 
-### :wave: Hi there! 
+<h3 align='center'>
+ :wave: Hi there!
+</h3>
 
- I’m learning Java, and I'm interested in [Android Studio](https://developer.android.com/studio) & [Arduino](https://www.arduino.cc/) Development
+<p align='center'>
+I’m learning Java, and I&#39;m interested in <a href="https://developer.android.com/studio">Android Studio</a> &amp; <a href="https://www.arduino.cc/">Arduino</a> Development
+</p>
 
-[![Pucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&hide=prs,contribs&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&hide=prs,contribs&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puckyeu&theme=algolia" />
+</a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puckyeu&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+ <a href="https://www.buymeacoffee.com/puckyeu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
 
-<!---
-PuckyEU/PuckyEU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
