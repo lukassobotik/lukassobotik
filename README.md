@@ -4,13 +4,16 @@
 </h3>
 
 <p align='center'>
-I’m learning Java, and I&#39;m interested in <a href="https://developer.android.com/studio">Android Studio</a> &amp; <a href="https://www.arduino.cc/">Arduino</a> Development
+I’m learning Java, and I&#39;m interested in <a href="https://developer.android.com/studio">Android</a> Development, a little bit of <a href="https://reactjs.org/">ReactJS</a> Development and a tiny bit of <a href="https://www.arduino.cc/">Arduino</a> Development
 </p>
 
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&hide=prs,contribs&show_icons=true&theme=algolia" />
 </a>
+</p>
+
+<p align='center'>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puckyeu&theme=algolia" />
 </a>
