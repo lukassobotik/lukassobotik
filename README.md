@@ -4,7 +4,7 @@
 </h3>
 
 <p align='center'>
-I’m learning Java, and I&#39;m interested in <a href="https://developer.android.com/studio">Android</a> Development, a little bit of <a href="https://reactjs.org/">ReactJS</a> Development and a tiny bit of <a href="https://www.arduino.cc/">Arduino</a> Development
+I’m learning Java, and I&#39;m interested in <a href="https://developer.android.com/studio">Android</a> Development, have a little bit of expirience with <a href="https://reactjs.org/">ReactJS</a> Development and a tiny bit of <a href="https://www.arduino.cc/">Arduino</a> Development.
 </p>
 
 <p align='center'>
