@@ -1,48 +1,38 @@
+## :wave: Hi there!
 
-<h3 align='center'>
- :wave: Hi there!
-</h3>
+I'm a student at [**Akademie VŠEM**](https://www.akademievsem.cz/) studying economics. 
+Programming is my passion and I hope it will be my full time job after I graduate. 
+I'm currently learning [**Java**](https://www.java.com/en/). 
+All of my projects are free to use and modify. 
+I'm also open to any suggestions or feedback.
+So if you have any, please let me know!
+
+Some of my repositories I plan to support for a long time, here is the list of [**My LTS Repositories**](https://github.com/stars/PuckyEU/lists/long-term-support).
+If you find any bugs in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support), please let me know by opening an issue there.
+
+If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/puckyeu).
+
+## :hammer_and_wrench: Technologies I Used
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="60" height="60"/>&nbsp;
+
+## :trophy: Stats
 
 <p align='center'>
-I’m learning Java, and I&#39;m interested in <a href="https://developer.android.com/studio">Android</a> Development, have a little bit of expirience with <a href="https://reactjs.org/">ReactJS</a> Development and a tiny bit of <a href="https://www.arduino.cc/">Arduino</a> Development.
-</p>
-
-<h3 align='center'>
- :hammer_and_wrench: Technologies
-</h3>
-<p align='center'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="60" height="60"/>&nbsp;
-</p>
-
-<h3 align='center'>
-:trophy: Stats 
-</h3>
-
-<p align='center'>
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&hide=prs,contribs&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&include_all_commits=true,contribs&show_icons=true&line_height=27&theme=algolia" />
 </a>
-</p>
-
-<p align='center'>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puckyeu&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puckyeu&langs_count=3&theme=algolia" />
 </a>
-</p>
-
-<h3 align='center'>
-:money_with_wings: Support Me! 
-</h3>
-
-<p align='center'>
- <a href="https://www.buymeacoffee.com/puckyeu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
