@@ -1,7 +1,9 @@
 ## :wave: Hi there!
 
 I'm a student at [**Akademie VŠEM**](https://www.akademievsem.cz/) studying economics. 
-Programming is my passion and I hope it will be my full time job after I graduate. 
+Programming is my passion and it will most likely be my full time job after I graduate.
+I'm open to any job offers aswell.
+
 I'm currently learning [**Java**](https://www.java.com/en/), and I have had a bit of expirience with [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/) aswell. 
 All of my projects are free to use and modify. 
 I'm also open to any suggestions or feedback.
@@ -9,6 +11,7 @@ So if you have any, please let me know!
 
 Some of my repositories I plan to support for a long time, here is the list of [**My LTS Repositories**](https://github.com/stars/PuckyEU/lists/long-term-support).
 If you find any bugs in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support), please let me know by opening an issue there.
+I would really appreciate it.
 
 If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/puckyeu).
 
