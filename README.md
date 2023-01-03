@@ -37,3 +37,5 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 </a>
 </p>
 
+## Contact Me
+You can contact me by [**Email**](mailto:sobotik.lukas@proton.me) or find me at [**LinkedIn**](https://www.linkedin.com/in/lukassobotik/).
