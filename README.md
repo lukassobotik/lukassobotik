@@ -2,9 +2,9 @@
 
 I'm a student at [**Akademie VŠEM**](https://www.akademievsem.cz/) studying economics. 
 Programming is my passion and it will most likely be my full time job after I graduate.
-I'm open to any job offers aswell.
+I'm open to any job offers as well.
 
-I'm currently learning [**Java**](https://www.java.com/en/), and I have had a bit of expirience with [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/) aswell. 
+I'm currently learning [**Java**](https://www.java.com/en/), and I have had a bit of experience with [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/) as well. 
 All of my projects are free to use and modify. 
 I'm also open to any suggestions or feedback.
 So if you have any, please let me know!
