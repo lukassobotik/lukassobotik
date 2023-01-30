@@ -1,15 +1,15 @@
 ## :wave: Hi there!
 
 I'm a student at [**Akademie VŠEM**](https://www.akademievsem.cz/) studying economics. 
-Programming is my passion and it will most likely be my full time job after I graduate.
-I'm open to any job offers as well.
-
-I'm currently learning [**Java**](https://www.java.com/en/), and I have had a bit of experience with [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/) as well. 
+Programming is my passion, and I am open to any job offers or internships. 
+Currently, I am learning [**Java**](https://www.java.com/en/), and I have had a bit of experience with [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/).
+Since December 2021, I have been actively learning programming. 
+I have developed Android applications and websites since then.
 All of my projects are free to use and modify. 
 I'm also open to any suggestions or feedback.
 So if you have any, please let me know!
 
-Some of my repositories I plan to support for a long time, here is the list of [**My LTS Repositories**](https://github.com/stars/PuckyEU/lists/long-term-support).
+I plan to support some of my repositories for a long time, here is the list of [**My LTS Repositories**](https://github.com/stars/PuckyEU/lists/long-term-support).
 If you find any bugs in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support), please let me know by opening an issue there.
 I would really appreciate it.
 
