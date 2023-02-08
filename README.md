@@ -1,9 +1,11 @@
 ## :wave: Hi there!
 
-I'm a student at [**Akademie VŠEM**](https://www.akademievsem.cz/) studying economics. 
-Programming is my passion and I hope it will be my full time job after I graduate. 
-I'm currently learning [**Java**](https://www.java.com/en/). 
-All of my projects are free to use and modify. 
+At [**Akademie VŠEM**](https://www.akademievsem.cz/), I'm a student majoring in economics. 
+My interest is programming, thus I'm open to any job or internship opportunities. 
+I am now studying [**Java**](https://www.java.com/en/), and I have minor knowledge of [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/). 
+Since December 2021, I've been actively learning programming. 
+Since then, I have created Android applications and websites.
+All of my projects are free to use and modify.
 I'm also open to any suggestions or feedback.
 So if you have any, please let me know!
 
