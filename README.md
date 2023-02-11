@@ -42,3 +42,9 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 
 ## Contact Me
 You can contact me by [**Email**](mailto:sobotik.lukas@proton.me) or find me at [**LinkedIn**](https://www.linkedin.com/in/lukassobotik/). You can find my portfolio website [**here**](https://lukassobotik.dev).
+
+## Socials
+<a href="https://twitter.com/PuckyEU"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="60" height="60"/></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCAgySOE0EDnb0ClrO1ctzNA"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" title="Youtube" alt="Youtube" width="90" height="60"/></a>&nbsp;
+<a href="https://www.codewars.com/users/PuckyEU"><img src="https://docs.codewars.com/logo.svg" title="Codewars" alt="Codewars" width="60" height="60"/></a>&nbsp;
+<a href="https://www.buymeacoffee.com/puckyeu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" title="Buymeacoffee" alt="Buymeacoffee" width="180" height="60"/></a>&nbsp;
