@@ -41,7 +41,9 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 </p>
 
 ## Contact Me
-You can contact me by [**Email**](mailto:sobotik.lukas@proton.me) or find me at [**LinkedIn**](https://www.linkedin.com/in/lukassobotik/). You can find my portfolio website [**here**](https://lukassobotik.dev).
+<a href="mailto:sobotik.lukas@proton.me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" title="Email" alt="Email" width="80" height="60"/></a>&nbsp;
+<a href="https://lukassobotik.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="60" height="60"/></a>&nbsp;
+<a href="https://lukassobotik.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chain_link_icon_slanted.png/800px-Chain_link_icon_slanted.png" title="Website" alt="Website" width="60" height="60"/></a>&nbsp;
 
 ## Socials
 <a href="https://twitter.com/PuckyEU"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="60" height="60"/></a>&nbsp;
