@@ -5,7 +5,7 @@ My interest is programming, thus I'm open to any job or internship opportunities
 I am now studying [**Java**](https://www.java.com/en/), and I have minor knowledge of [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/). 
 Since December 2021, I've been actively learning programming. 
 Since then, I have created Android applications and websites.
-In 2022, I've completed 2 fully fledged projects.
+In 2022, I've completed 2 fully fledged projects and many others that were just not completely finished.
 All of my projects are free to use and modify.
 I'm also open to any suggestions or feedback.
 So if you have any, please let me know!
