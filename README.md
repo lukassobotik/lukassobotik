@@ -4,17 +4,17 @@ At [**Akademie VŠEM**](https://www.akademievsem.cz/), I'm a student majoring in
 My interest is programming, thus I'm open to any job or internship opportunities. 
 I am now studying [**Java**](https://www.java.com/en/), and I have minor knowledge of [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/). 
 
-Since December 2021, I've been actively learning programming. 
-Since then, I have created Android applications and websites.
-In 2022, I've completed 2 fully fledged projects and many others that were just not completely finished.
+I've been actively learning programming since December 2021.
+Since then, I've developed websites and Android apps.
+I finished two projects that were fully developed in 2022, in addition to several others that were started but never finished. 
 
-All of my projects are free to use and modify.
-I'm also open to any suggestions or feedback.
-So if you have any, please let me know!
+You are welcome to use and modify any of my projects.
+I'm also open to criticism and recommendations.
+So please let me know if you have any! 
 
-I plan to support some of my repositories for a long time, here is the list of [**My LTS Repositories**](https://github.com/stars/PuckyEU/lists/long-term-support).
-If you find any bugs in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support), please let me know by opening an issue there.
-I would really appreciate it.
+[**Here**](https://github.com/stars/PuckyEU/lists/long-term-support) is a list of the repositories I intend to support over an extended period of time.
+Please let me know by creating an issue in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support) where you find any bugs.
+Really, I would appreciate it. 
 
 If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/puckyeu).
 
