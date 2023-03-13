@@ -44,10 +44,24 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 </p>
 
 ## Contact Me
-<a href="mailto:sobotik.lukas@proton.me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" title="Email" alt="Email" width="80" height="60"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/lukassobotik/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="60" height="60"/></a>&nbsp;
-<a href="https://lukassobotik.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chain_link_icon_slanted.png/800px-Chain_link_icon_slanted.png" title="Website" alt="Website" width="60" height="60"/></a>&nbsp;
-<a href="https://twitter.com/PuckyEU"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="60" height="60"/></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCAgySOE0EDnb0ClrO1ctzNA"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" title="Youtube" alt="Youtube" width="90" height="60"/></a>&nbsp;
-<a href="https://www.codewars.com/users/PuckyEU"><img src="https://docs.codewars.com/logo.svg" title="Codewars" alt="Codewars" width="60" height="60"/></a>&nbsp;
-<a href="https://www.buymeacoffee.com/puckyeu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" title="Buymeacoffee" alt="Buymeacoffee" width="180" height="60"/></a>&nbsp;
+<a href="mailto:sobotik.lukas@proton.me" target="blank"><img align="center"
+src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email" height="30"/></a>
+<a href="https://www.linkedin.com/in/lukassobotik/" target="blank"><img align="center"
+src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn" height="30"/></a>
+<a href="https://lukassobotik.dev" target="blank"><img align="center"
+src="https://img.shields.io/badge/Website-EA4335.svg?logo=react&style=for-the-badge&logoColor=white"
+alt="LinkedIn" height="30"/></a>
+<a href="https://twitter.com/PuckyEU" target="blank"><img align="center"
+src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
+alt="LinkedIn" height="30"/></a>
+<a href="https://youtube.com/@PuckyEU" target="blank"><img align="center"
+src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
+alt="LinkedIn" height="30"/></a>
+<a href="https://www.buymeacoffee.com/puckyeu" target="blank"><img align="center"
+src="https://img.shields.io/badge/BuyMeACoffee-%231DA1F2.svg?logo=buymeacoffee&style=for-the-badge&logoColor=white"
+alt="LinkedIn" height="30"/></a>
+<a href="https://www.codewars.com/users/PuckyEU" target="blank"><img align="center"
+src="https://img.shields.io/badge/Codewars-EA4335.svg?logo=codewars&style=for-the-badge&logoColor=white"
+alt="LinkedIn" height="30"/></a>
