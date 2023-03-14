@@ -51,7 +51,7 @@ alt="Email" height="30"/></a>
 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn" height="30"/></a>
 <a href="https://lukassobotik.dev" target="blank"><img align="center"
-src="https://img.shields.io/badge/Website-EA4335.svg?logo=react&style=for-the-badge&logoColor=white"
+src="https://img.shields.io/badge/Website-blueviolet?logo=react&style=for-the-badge&logoColor=white"
 alt="LinkedIn" height="30"/></a>
 <a href="https://twitter.com/PuckyEU" target="blank"><img align="center"
 src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
@@ -60,7 +60,7 @@ alt="LinkedIn" height="30"/></a>
 src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
 alt="LinkedIn" height="30"/></a>
 <a href="https://www.buymeacoffee.com/puckyeu" target="blank"><img align="center"
-src="https://img.shields.io/badge/BuyMeACoffee-%231DA1F2.svg?logo=buymeacoffee&style=for-the-badge&logoColor=white"
+src="https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge&logoColor=white"
 alt="LinkedIn" height="30"/></a>
 <a href="https://www.codewars.com/users/PuckyEU" target="blank"><img align="center"
 src="https://img.shields.io/badge/Codewars-EA4335.svg?logo=codewars&style=for-the-badge&logoColor=white"
