@@ -16,6 +16,8 @@ So please let me know if you have any!
 Please let me know by creating an issue in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support) where you find any bugs.
 Really, I would appreciate it. 
 
+The list of repositories that are actively being developed, or those on which I am actively working, is available [**here**](https://github.com/stars/PuckyEU/lists/active-development).
+
 If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/puckyeu).
 
 ## :hammer_and_wrench: Technologies I've Used
