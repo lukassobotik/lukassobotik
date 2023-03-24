@@ -55,6 +55,9 @@ alt="LinkedIn" height="30"/></a>
 <a href="https://lukassobotik.dev" target="blank"><img align="center"
 src="https://img.shields.io/badge/Website-blueviolet?logo=react&style=for-the-badge&logoColor=white"
 alt="LinkedIn" height="30"/></a>
+<a href="https://play.google.com/store/apps/dev?id=6212701078283176937" target="blank"><img align="center"
+src="https://img.shields.io/badge/Google Play-brightgreen?logo=googleplay&style=for-the-badge&logoColor=white"
+alt="LinkedIn" height="30"/></a>
 <a href="https://twitter.com/PuckyEU" target="blank"><img align="center"
 src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
 alt="LinkedIn" height="30"/></a>
