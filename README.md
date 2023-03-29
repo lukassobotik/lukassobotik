@@ -11,6 +11,7 @@ I finished two projects that were fully developed in 2022, in addition to severa
 You are welcome to use and modify any of my projects.
 I'm also open to criticism and recommendations.
 So please let me know if you have any! 
+You can find me [**here**](https://github.com/PuckyEU#contact-me).
 
 [**Here**](https://github.com/stars/PuckyEU/lists/long-term-support) is a list of the repositories I intend to support over an extended period of time.
 Please let me know by creating an issue in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support) where you find any bugs.
@@ -19,19 +20,6 @@ Really, I would appreciate it.
 The list of repositories that are actively being developed, or those on which I am actively working, is available [**here**](https://github.com/stars/PuckyEU/lists/active-development).
 
 If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/puckyeu).
-
-## :hammer_and_wrench: Technologies I've Used
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
 
 ## :trophy: Stats
 
