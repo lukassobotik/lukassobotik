@@ -34,7 +34,7 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 </p>
 
 ## Contact Me
-<a href="mailto:sobotik.lukas@proton.me" target="blank"><img align="center"
+<a href="mailto:jobs@lukassobotik.dev" target="blank"><img align="center"
 src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
 alt="Email" height="30"/></a>
 <a href="https://www.linkedin.com/in/lukassobotik/" target="blank"><img align="center"
