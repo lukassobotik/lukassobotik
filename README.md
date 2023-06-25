@@ -1,8 +1,8 @@
 ## :wave: Hi there!
 
-At [**Akademie VŠEM**](https://www.akademievsem.cz/), I'm a student majoring in economics. 
+I'm a student majoring in economics. 
 My interest is programming, thus I'm open to any job or internship opportunities. 
-I am now studying [**Java**](https://www.java.com/en/), and I have minor knowledge of [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/). 
+I am now learning [**Java**](https://www.java.com/en/), and I have minor knowledge of [**JavaScript**](https://www.javascript.com/) and [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/). 
 
 I've been actively learning programming since December 2021.
 Since then, I've developed websites and Android apps.
