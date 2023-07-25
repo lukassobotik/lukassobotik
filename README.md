@@ -42,22 +42,25 @@ src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&log
 alt="LinkedIn" height="30"/></a>
 <a href="https://lukassobotik.dev" target="blank"><img align="center"
 src="https://img.shields.io/badge/Website-orange?logo=typescript&style=for-the-badge&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="Website" height="30"/></a>
 <a href="https://www.freelancer.com/u/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/freelancer-%231DA1F2.svg?style=for-the-badge&logo=freelancer&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="Freelancer" height="30"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6212701078283176937" target="blank"><img align="center"
 src="https://img.shields.io/badge/Google Play-brightgreen?logo=googleplay&style=for-the-badge&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="Google Play" height="30"/></a>
 <a href="https://twitter.com/PuckyEU" target="blank"><img align="center"
 src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="Twitter" height="30"/></a>
 <a href="https://youtube.com/@PuckyEU" target="blank"><img align="center"
 src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="Youtube" height="30"/></a>
 <a href="https://www.buymeacoffee.com/puckyeu" target="blank"><img align="center"
 src="https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="Buy Me A Coffee" height="30"/></a>
 <a href="https://www.codewars.com/users/PuckyEU" target="blank"><img align="center"
 src="https://img.shields.io/badge/Codewars-EA4335.svg?logo=codewars&style=for-the-badge&logoColor=white"
-alt="LinkedIn" height="30"/></a>
+alt="CodeWars" height="30"/></a>
+<a href="https://leetcode.com/lukassobotik/" target="blank"><img align="center"
+src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge&logoColor=white"
+alt="LeetCode" height="30"/></a>
