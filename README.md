@@ -26,10 +26,10 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 <p align='center'>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=puckyeu&count_private=true&include_all_commits=true,contribs&show_icons=true&line_height=27&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukassobotik&count_private=true&include_all_commits=true,contribs&show_icons=true&line_height=27&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puckyeu&langs_count=3&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassobotik&langs_count=3&theme=algolia" />
 </a>
 </p>
 
