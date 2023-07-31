@@ -11,15 +11,15 @@ I finished two projects that were fully developed in 2022, in addition to severa
 You are welcome to use and modify any of my projects.
 I'm also open to criticism and recommendations.
 So please let me know if you have any! 
-You can find me [**here**](https://github.com/PuckyEU#contact-me).
+You can find me [**here**](#contact-me).
 
-[**Here**](https://github.com/stars/PuckyEU/lists/long-term-support) is a list of the repositories I intend to support over an extended period of time.
-Please let me know by creating an issue in any of the [**LTS repositories**](https://github.com/stars/PuckyEU/lists/long-term-support) where you find any bugs.
+[**Here**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of the repositories I intend to support over an extended period of time.
+Please let me know by creating an issue in any of the [**LTS repositories**](https://github.com/stars/lukassobotik/lists/long-term-support) where you find any bugs.
 Really, I would appreciate it. 
 
-The list of repositories that are actively being developed, or those on which I am actively working, is available [**here**](https://github.com/stars/PuckyEU/lists/active-development).
+The list of repositories that are actively being developed, or those on which I am actively working, is available [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
-If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/puckyeu).
+If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukasssobotik).
 
 ## :trophy: Stats
 
