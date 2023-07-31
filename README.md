@@ -49,16 +49,16 @@ alt="Freelancer" height="30"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6212701078283176937" target="blank"><img align="center"
 src="https://img.shields.io/badge/Google Play-brightgreen?logo=googleplay&style=for-the-badge&logoColor=white"
 alt="Google Play" height="30"/></a>
-<a href="https://twitter.com/PuckyEU" target="blank"><img align="center"
+<a href="https://twitter.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
 alt="Twitter" height="30"/></a>
-<a href="https://youtube.com/@PuckyEU" target="blank"><img align="center"
+<a href="https://youtube.com/@lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
 alt="Youtube" height="30"/></a>
-<a href="https://www.buymeacoffee.com/puckyeu" target="blank"><img align="center"
+<a href="https://www.buymeacoffee.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge&logoColor=white"
 alt="Buy Me A Coffee" height="30"/></a>
-<a href="https://www.codewars.com/users/PuckyEU" target="blank"><img align="center"
+<a href="https://www.codewars.com/users/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Codewars-EA4335.svg?logo=codewars&style=for-the-badge&logoColor=white"
 alt="CodeWars" height="30"/></a>
 <a href="https://leetcode.com/lukassobotik/" target="blank"><img align="center"
