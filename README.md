@@ -49,6 +49,9 @@ alt="Freelancer" height="30"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6212701078283176937" target="blank"><img align="center"
 src="https://img.shields.io/badge/Google Play-brightgreen?logo=googleplay&style=for-the-badge&logoColor=white"
 alt="Google Play" height="30"/></a>
+<a href="https://gitlab.com/lukassobotik" target="blank"><img align="center"
+src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&style=for-the-badge&logoColor=white"
+alt="Gitlab" height="30"/></a>
 <a href="https://twitter.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
 alt="Twitter" height="30"/></a>
