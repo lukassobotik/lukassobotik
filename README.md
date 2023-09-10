@@ -41,7 +41,7 @@ alt="Email" height="30"/></a>
 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn" height="30"/></a>
 <a href="https://lukassobotik.dev" target="blank"><img align="center"
-src="https://img.shields.io/badge/Website-orange?logo=typescript&style=for-the-badge&logoColor=white"
+src="https://img.shields.io/badge/Personal Website-orange?logo=typescript&style=for-the-badge&logoColor=white"
 alt="Website" height="30"/></a>
 <a href="https://www.freelancer.com/u/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/freelancer-%231DA1F2.svg?style=for-the-badge&logo=freelancer&logoColor=white"
