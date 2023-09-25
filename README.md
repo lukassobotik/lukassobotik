@@ -6,7 +6,7 @@ I am now learning [**Java**](https://www.java.com/en/), and I have minor knowled
 
 I've been actively learning programming since December 2021.
 Since then, I've developed websites and Android apps.
-I finished two projects that were fully developed in 2022, in addition to several others that were started but never finished. 
+I finished two bigger projects that were fully developed in 2022, in addition to several others that were started but never finished. 
 
 You are welcome to use and modify any of my projects.
 I'm also open to criticism and recommendations.
