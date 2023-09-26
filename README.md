@@ -1,4 +1,4 @@
-## :wave: Hi there!
+## :wave: Hello there!
 
 I'm a student majoring in economics. 
 My interest is programming, thus I'm open to any job or internship opportunities. 
