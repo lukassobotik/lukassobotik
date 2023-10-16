@@ -19,7 +19,7 @@ Really, I would appreciate it.
 
 The list of repositories that are actively being developed, or those on which I am actively working, is available [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
-If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukasssobotik).
+If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
 
 ## :trophy: Stats
 
