@@ -1,6 +1,6 @@
 ## :wave: Hello there!
 
-I'm a student majoring in economics. 
+I'm a student from the Czech Republic. 
 My interest is programming, thus I'm open to any job or internship opportunities. 
 I am now learning [**Java**](https://lukassobotik.dev/projects?technology=java), and I have minor knowledge of [**JavaScript**](https://lukassobotik.dev/projects?technology=javascript) and [**C#**](https://lukassobotik.dev/projects?technology=csharp). 
 
