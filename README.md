@@ -15,7 +15,7 @@ You can find me [**here**](#contact-me).
 
 [**Here**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of the repositories I intend to support over an extended period of time.
 Please let me know by creating an issue in any of the [**LTS repositories**](https://github.com/stars/lukassobotik/lists/long-term-support) where you find any bugs.
-Really, I would appreciate it. 
+I would really appreciate it.
 
 The list of repositories that are actively being developed, or those I am actively working on, is available [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
