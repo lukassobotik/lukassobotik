@@ -4,9 +4,9 @@ I'm a student from the Czech Republic.
 My interest is programming, thus I'm open to any job or internship opportunities. 
 I am now learning [**Java**](https://lukassobotik.dev/projects?technology=java), and I have minor knowledge of [**JavaScript**](https://lukassobotik.dev/projects?technology=javascript) and [**C#**](https://lukassobotik.dev/projects?technology=csharp). 
 
-I've been actively learning programming since December 2021.
-Since then, I've developed websites and Android apps.
-I finished two bigger projects that were fully developed in 2022, in addition to several others that were started but never finished. 
+Since December 2021, I have been actively learning programming. 
+I've created Android apps and websites since then. 
+Along with a number of unfinished projects, I completed two larger projects that had been finished in 2022.
 
 You are welcome to use and modify any of my projects.
 I'm also open to criticism and recommendations.
