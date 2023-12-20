@@ -17,7 +17,7 @@ You can find me [**here**](#contact-me).
 If you encounter any bugs, please let me know about them by opening an issue in any of the [**LTS repositories**](https://github.com/stars/lukassobotik/lists/long-term-support). 
 I would be really grateful for that because I could fix them as soon as possible.
 
-The list of repositories that I am actively working on, is available [**here**](https://github.com/stars/lukassobotik/lists/active-development).
+You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
 If you like any of my projects and want to support me, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
 
