@@ -43,12 +43,12 @@ alt="Email" height="30"/></a>
 <a href="https://www.linkedin.com/in/lukassobotik/" target="blank"><img align="center"
 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn" height="30"/></a>
-<a href="https://www.freelancer.com/u/lukassobotik" target="blank"><img align="center"
-src="https://img.shields.io/badge/freelancer-%231DA1F2.svg?style=for-the-badge&logo=freelancer&logoColor=white"
-alt="Freelancer" height="30"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6212701078283176937" target="blank"><img align="center"
 src="https://img.shields.io/badge/Google Play-brightgreen?logo=googleplay&style=for-the-badge&logoColor=white"
 alt="Google Play" height="30"/></a>
+<a href="https://www.freelancer.com/u/lukassobotik" target="blank"><img align="center"
+src="https://img.shields.io/badge/freelancer-%231DA1F2.svg?style=for-the-badge&logo=freelancer&logoColor=white"
+alt="Freelancer" height="30"/></a>
 <a href="https://gitlab.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&style=for-the-badge&logoColor=white"
 alt="Gitlab" height="30"/></a>
