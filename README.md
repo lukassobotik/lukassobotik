@@ -37,12 +37,12 @@ If you like any of my projects and want to support me, you can do so by [**buyin
 <a href="https://lukassobotik.dev" target="blank"><img align="center"
 src="https://img.shields.io/badge/Website-orange?logo=typescript&style=for-the-badge&logoColor=white"
 alt="Website" height="30"/></a>
-<a href="mailto:jobs@lukassobotik.dev" target="blank"><img align="center"
-src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Email" height="30"/></a>
 <a href="https://www.linkedin.com/in/lukassobotik/" target="blank"><img align="center"
 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn" height="30"/></a>
+<a href="mailto:jobs@lukassobotik.dev" target="blank"><img align="center"
+src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email" height="30"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6212701078283176937" target="blank"><img align="center"
 src="https://img.shields.io/badge/Google Play-brightgreen?logo=googleplay&style=for-the-badge&logoColor=white"
 alt="Google Play" height="30"/></a>
