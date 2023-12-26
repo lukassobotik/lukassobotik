@@ -50,15 +50,15 @@ alt="Google Play" height="30"/></a>
 <a href="https://www.freelancer.com/u/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/freelancer-%231DA1F2.svg?style=for-the-badge&logo=freelancer&logoColor=white"
 alt="Freelancer" height="30"/></a>
+<a href="https://youtube.com/@lukassobotik" target="blank"><img align="center"
+src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
+alt="Youtube" height="30"/></a>
 <a href="https://gitlab.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&style=for-the-badge&logoColor=white"
 alt="Gitlab" height="30"/></a>
 <a href="https://twitter.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
 alt="Twitter" height="30"/></a>
-<a href="https://youtube.com/@lukassobotik" target="blank"><img align="center"
-src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
-alt="Youtube" height="30"/></a>
 <a href="https://www.buymeacoffee.com/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge&logoColor=white"
 alt="Buy Me A Coffee" height="30"/></a>
