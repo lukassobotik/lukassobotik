@@ -12,7 +12,7 @@ In 2023, I finished two small projects and started a larger one, in addition to 
 You are welcome to use and modify any of my projects.
 I'm also open to criticism and recommendations.
 So please let me know if you have any! 
-You can find me [**here**](#contact-me).
+You can find me [**here**](https://lukassobotik.dev).
 
 [**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of the repositories that I want to provide long-term maintenance for. 
 If you encounter any bugs, please let me know about them by opening an issue in any of the [**LTS repositories**](https://github.com/stars/lukassobotik/lists/long-term-support). 
