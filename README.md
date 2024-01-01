@@ -14,7 +14,7 @@ I'm also open to criticism and recommendations.
 So please let me know if you have any! 
 You can find me [**here**](https://lukassobotik.dev).
 
-[**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of the repositories that I want to provide long-term maintenance for. 
+[**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of repositories for which I would like to offer long-term maintenance. 
 If you encounter any bugs, please let me know about them by opening an issue in any of the [**LTS repositories**](https://github.com/stars/lukassobotik/lists/long-term-support). 
 I would be really grateful for that because I could fix them as soon as possible.
 
