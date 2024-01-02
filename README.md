@@ -15,7 +15,7 @@ So please let me know if you have any!
 You can find me [**here**](https://lukassobotik.dev).
 
 [**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of repositories for which I would like to offer long-term maintenance. 
-If you encounter any bugs, please let me know about them by opening an issue in any of the [**LTS repositories**](https://github.com/stars/lukassobotik/lists/long-term-support). 
+If you come across any issues, please report them by opening an issue in the respective repositories. 
 I would be really grateful for that because I could fix them as soon as possible.
 
 You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
