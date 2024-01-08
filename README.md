@@ -22,7 +22,6 @@ You can find the list of repositories that I am actively working on [**here**](h
 If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
 
 ## :trophy: Stats
-
 <p align='center'>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
