@@ -23,7 +23,6 @@ If you appreciate any of my projects and would like to show your support, you ca
 
 ## :trophy: Stats
 <p align='center'>
- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukassobotik&count_private=true&include_all_commits=true,contribs&show_icons=true&line_height=27&theme=algolia" />
 </a>
