@@ -10,7 +10,6 @@ In 2023, I finished two small projects, started one more significant project, an
 
 I'm also open to criticism and recommendations.
 So please let me know if you have any! 
-You can find me [**here**](https://lukassobotik.dev).
 
 [**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of repositories for which I would like to offer long-term maintenance. 
 If you come across any issues, please report them by opening an issue in the respective repositories. 
