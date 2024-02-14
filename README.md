@@ -14,6 +14,7 @@ So please let me know if you have any!
 [**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of repositories for which I would like to offer long-term maintenance. 
 If you come across any issues, please report them by opening an issue in the respective repositories. 
 I would be really grateful for that because I could fix them as soon as possible.
+
 You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
 If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
