@@ -8,7 +8,7 @@ I have created various Android apps and websites since then.
 Although I have several unfinished projects, I have completed two significant projects in 2022. 
 In 2023, I finished two small projects, started one more significant project, and completed three larger projects.
 
-I'm open to criticism and recommendations.
+Also, I'm open to criticism and recommendations.
 So please let me know if you have any! 
 
 [**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of repositories for which I would like to offer long-term maintenance. 
