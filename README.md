@@ -11,7 +11,7 @@ In 2023, I finished two small projects, started one more significant project, an
 Also, I'm open to criticism and recommendations.
 So please let me know if you have any! 
 
-[**This**](https://github.com/stars/lukassobotik/lists/long-term-support) is a list of repositories for which I would like to offer long-term maintenance. 
+I would like to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you encounter any issues, please report them by opening an issue in the respective repositories. 
 I would be grateful for that because I could fix them as soon as possible.
 
