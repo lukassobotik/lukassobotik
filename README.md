@@ -13,7 +13,7 @@ So please let me know if you have any!
 
 I would like to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you encounter any issues, please report them by opening an issue in the respective repositories. 
-I would be grateful for that because I could fix them as soon as possible.
+Thanks to that, I could fix them as soon as possible.
 
 You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
