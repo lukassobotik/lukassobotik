@@ -9,7 +9,7 @@ Although I have several unfinished projects, I have completed two significant pr
 In 2023, I finished two small projects, started one more significant project, and completed three larger projects.
 
 Also, I'm open to any criticism and recommendations.
-So please let me know if you have any! 
+So please [**let me know**](#contact-me) if you have any! 
 
 I want to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you happen to have any issues or encounter any problems, please report them by opening an issue in the respective repositories. 
