@@ -6,7 +6,7 @@ I am now learning [**Java**](https://lukassobotik.dev/projects?technology=Java),
 Since December 2021, I have actively been learning programming. 
 I have created various Android apps and websites since then. 
 Although I have several unfinished projects, I have completed two significant projects in 2022. 
-In 2023, I finished two small projects, started one more significant project, and completed three larger projects.
+I finished two small projects, started one more significant project, and completed three larger projects in 2023.
 
 Also, I'm open to any criticism and recommendations.
 So please [**let me know**](#contact-me) if you have any! 
