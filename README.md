@@ -11,7 +11,7 @@ I finished two small projects, started one more significant project, and complet
 Also, I'm open to any criticism and recommendations.
 So please [**let me know**](#contact-me) if you have any! 
 
-I will provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
+I intend to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you have any issues, please report them by opening an issue in the respective repositories. 
 Thanks to that, I could fix them as soon as possible.
 
