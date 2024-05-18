@@ -1,6 +1,6 @@
 ## :wave: Hello there!
 I'm a student from the Czech Republic. 
-My interest is programming, so I'm open to any job or internship opportunities. 
+My interest is programming, and currently, I'm open to any job or internship opportunities. 
 I am now learning [**Java**](https://lukassobotik.dev/projects?technology=Java), and I have minor knowledge of [**JavaScript**](https://lukassobotik.dev/projects?technology=JavaScript) and [**C#**](https://lukassobotik.dev/projects?technology=c-sharp). 
 
 Since December 2021, I have actively been learning programming. 
