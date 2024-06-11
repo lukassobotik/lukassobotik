@@ -8,7 +8,7 @@ I have created various Android apps and websites since then.
 Although I have several unfinished projects, I have completed two significant projects in [**2022**](https://lukassobotik.dev/projects?year=2022). 
 I finished two small projects, started one more significant project, and completed three larger projects in [**2023**](https://lukassobotik.dev/projects?year=2023).
 So far, in [**2024**](https://lukassobotik.dev/projects?year=2024), I have mainly focused on maintaining my older projects from previous years and have also finished one significant project.
-For more details, visit [**my website**](https://lukassobotik.dev/projects/).
+For more details about my projects, visit [**my website**](https://lukassobotik.dev/projects/).
 
 Also, I'm open to any criticism and recommendations.
 So please [**let me know**](#contact-me) if you have any! 
