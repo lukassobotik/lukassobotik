@@ -10,9 +10,6 @@ I completed two small projects, started one more significant project, and comple
 So far, in [**2024**](https://lukassobotik.dev/projects?year=2024), I have mainly focused on maintaining my older projects from previous years and have also finished one significant project.
 For more details about my projects, visit [**my website**](https://lukassobotik.dev/projects/).
 
-Also, I'm open to any criticism and recommendations.
-So please [**let me know**](#contact-me) if you have any! 
-
 I intend to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you happen to have any issues with the projects on that list, please make sure to report them by opening an issue in the respective repositories. 
 Thanks to that, I could fix them as soon as possible.
@@ -20,6 +17,9 @@ Thanks to that, I could fix them as soon as possible.
 You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
 If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
+
+Also, I'm open to any criticism and recommendations.
+So please [**let me know**](#contact-me) if you have any! 
 
 ## :trophy: Stats
 <p align='center'>
