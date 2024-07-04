@@ -16,10 +16,10 @@ Thanks to that, I could fix them as soon as possible.
 
 You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
-If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
-
 Also, I'm open to any criticism and recommendations.
 So please [**let me know**](#contact-me) if you have any! 
+
+If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik).
 
 ## :trophy: Stats
 <p align='center'>
