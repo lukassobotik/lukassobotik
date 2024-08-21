@@ -14,7 +14,7 @@ I intend to provide long-term maintenance for the repositories on [**this**](htt
 If you happen to have any issues with the projects on that list, please make sure to report them by opening an issue in the respective repositories. 
 Thanks to that, I could fix them as soon as possible.
 
-You can find the list of repositories that I am actively working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
+You can find the list of repositories that I am working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
 Also, I'm open to any criticism and recommendations.
 So please [**let me know**](#contact-me) if you have any! 
