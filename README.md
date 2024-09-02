@@ -12,7 +12,7 @@ More details about my projects can be found on [**my website**](https://lukassob
 
 I intend to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you happen to have any issues with the projects on that list, please make sure to report them by opening an issue in the respective repositories. 
-Thanks to that, I could be able to fix them as soon as possible.
+Thanks to that, I could fix them as soon as possible.
 
 You can find the list of repositories that I am working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
 
