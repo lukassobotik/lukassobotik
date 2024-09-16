@@ -8,7 +8,7 @@ I have created lots of Android apps and websites since then.
 Although I had several unfinished projects, I completed two larger projects in [**2022**](https://lukassobotik.dev/projects?year=2022). 
 I completed two small projects, started one more significant project, and completed three larger projects in [**2023**](https://lukassobotik.dev/projects?year=2023).
 And so far in [**2024**](https://lukassobotik.dev/projects?year=2024), I have mainly focused on maintaining my older projects from previous years and have also finished one significant project.
-More details about my projects can be found on [**my website**](https://lukassobotik.dev/projects/).
+More details about the projects can be found on [**my website**](https://lukassobotik.dev/projects/).
 
 I intend to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
 If you happen to experience any issues with the projects on that list, please report them by opening an issue in the respective repositories. 
