@@ -53,9 +53,6 @@ alt="Freelancer" height="30"/></a>
 <a href="https://youtube.com/@lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Youtube-EA4335.svg?logo=youtube&style=for-the-badge&logoColor=white"
 alt="Youtube" height="30"/></a>
-<a href="https://twitter.com/lukassobotik" target="blank"><img align="center"
-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge&logoColor=white"
-alt="Twitter" height="30"/></a>
 <a href="https://www.codewars.com/users/lukassobotik" target="blank"><img align="center"
 src="https://img.shields.io/badge/Codewars-EA4335.svg?logo=codewars&style=for-the-badge&logoColor=white"
 alt="CodeWars" height="30"/></a>
