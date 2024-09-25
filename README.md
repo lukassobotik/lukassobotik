@@ -19,7 +19,7 @@ You can find the list of repositories that I am working on [**here**](https://gi
 Also, I'm open to any criticism and recommendations.
 So please [**let me know**](#contact-me) if you have any! 
 
-If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik) or starring any of my repositories.
+If you appreciate any of my projects and would like to show your support, you can do so by [**buying me a coffee**](https://www.buymeacoffee.com/lukassobotik) or by starring any of my repositories.
 
 ## :trophy: Stats
 <p align='center'>
