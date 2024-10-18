@@ -11,7 +11,7 @@ So far in [**2024**](https://lukassobotik.dev/projects?year=2024), I have mainly
 Further project details can be found on [**my website**](https://lukassobotik.dev/projects/).
 
 I intend to provide long-term maintenance for the repositories on [**this**](https://github.com/stars/lukassobotik/lists/long-term-support) list.
-If you happen to experience any issues with the projects on that list, please report them by opening an issue in the respective repositories. 
+If you encounter any issues with the projects on that list, please report them by opening an issue in the respective repositories. 
 Thanks to that, I could fix them as soon as possible.
 
 You can find the list of repositories that I am working on [**here**](https://github.com/stars/lukassobotik/lists/active-development).
