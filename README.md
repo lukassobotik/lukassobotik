@@ -4,7 +4,7 @@ My interest is programming, and currently, I'm open to any job or internship opp
 I am now learning [**Java**](https://lukassobotik.dev/projects?technology=Java), and I have minor knowledge of [**JavaScript**](https://lukassobotik.dev/projects?technology=JavaScript) and [**C#**](https://lukassobotik.dev/projects?technology=c-sharp). 
 
 Since December 2021, I have been actively learning programming. 
-I have created lots of Android apps and websites since then. 
+I have created lots of Android apps, Java apps, and websites since then. 
 Although I had several unfinished projects, I completed two larger projects in [**2022**](https://lukassobotik.dev/projects?year=2022). 
 In [**2023**](https://lukassobotik.dev/projects?year=2023), I completed two small projects, started one more significant project, and completed three larger projects.
 In [**2024**](https://lukassobotik.dev/projects?year=2024), I mainly focused on getting work experience, maintaining my older projects from previous years, and have also finished one significant project.
