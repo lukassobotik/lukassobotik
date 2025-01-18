@@ -1,7 +1,7 @@
 ## :wave: Hello there!
 I'm a student from the Czech Republic. 
 My interest is programming, and currently, I'm open to any job or internship opportunities. 
-I am now learning [**Java**](https://lukassobotik.dev/projects?technology=Java), and I have minor knowledge of [**JavaScript**](https://lukassobotik.dev/projects?technology=JavaScript) and [**C#**](https://lukassobotik.dev/projects?technology=c-sharp). 
+I am now learning [**Java**](https://lukassobotik.dev/projects?technology=Java), and have minor knowledge of [**JavaScript**](https://lukassobotik.dev/projects?technology=JavaScript) and [**C#**](https://lukassobotik.dev/projects?technology=c-sharp). 
 
 Since December 2021, I have been actively learning programming. 
 I have created lots of Android apps, Java apps, and websites since then. 
