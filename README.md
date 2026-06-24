@@ -10,7 +10,7 @@ You can explore my journey on [**my website**](https://lukassobotik.dev/projects
 [**2022**](https://lukassobotik.dev/projects?year=2022): Finished 2 large projects  
 [**2023**](https://lukassobotik.dev/projects?year=2023): Completed 3 larger projects + 1 long-term project started  
 [**2024**](https://lukassobotik.dev/projects?year=2024): Focused on work experience + 1 significant release  
-[**2025**](https://lukassobotik.dev/projects?year=2025): Currently working on a project I’m very passionate about  
+[**2025**](https://lukassobotik.dev/projects?year=2025): Mainly worked on a project I’m very passionate about  
 
 ## :hammer_and_wrench: Maintenance  
 I provide **long-term support** for [these repositories](https://github.com/stars/lukassobotik/lists/long-term-support).  
